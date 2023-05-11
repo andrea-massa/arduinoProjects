@@ -1,0 +1,1 @@
+This Script Changes The Color of a RGB smoothly from red to green to blue in a loop.
